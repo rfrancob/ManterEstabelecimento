@@ -1,0 +1,54 @@
+@CHARSET "ISO-8859-1";
+
+
+body{
+	font-family: serif;
+	font-size: large;
+	background-color: #87CEFA;
+	margin-left: 35%;
+}
+
+.estabelecimentoTable {
+	margin-left: -15%;
+	border-width: 2px 2px 2px 2px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: gray;
+	border-collapse: collapse;
+}
+
+.estabelecimentoTable td {
+	border-width: 2px 2px 2px 2px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: blue;
+	border-collapse: collapse;
+}
+
+.estabelecimentoTable th {
+	border-width: 2px 2px 2px 2px;
+	border-spacing: 2px;
+	border-style: solid;
+	border-color: blue;
+	border-collapse: collapse;
+	color: #F0FFFF;
+	background-color: #0000FF;
+}
+
+.odd {
+background-color: #FFFFFF;
+color: #0000FF;
+}
+
+.odd a{
+color: #0000FF;
+}
+
+.even {
+background-color: #87CEFA;
+color: #000000;
+}
+
+.even a{
+color: #000000;
+}
